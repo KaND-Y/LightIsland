@@ -1,6 +1,6 @@
 //Maya ASCII 2016 scene
 //Name: jurkin.ma
-//Last modified: Fri, Oct 28, 2016 06:30:06 PM
+//Last modified: Fri, Oct 28, 2016 06:30:25 PM
 //Codeset: UTF-8
 requires maya "2016";
 currentUnit -l centimeter -a degree -t film;
@@ -2556,7 +2556,7 @@ createNode mesh -n "jurkin" -p "|jurkin";
 	setAttr -s 32 ".iog[0].og";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
-	setAttr ".pv" -type "double2" 0.78462296387570052 0.49378549210769307 ;
+	setAttr ".pv" -type "double2" 0.78462293744087219 0.49378550425171852 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
