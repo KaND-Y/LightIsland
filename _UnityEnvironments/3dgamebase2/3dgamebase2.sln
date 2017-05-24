@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{52BFA929-B06A-AB47-E809-9BFBB7072956}") = "3dgamebase2", "Assembly-CSharp.csproj", "{8B9B8008-582C-AEC7-5239-5825B5DAEDFA}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dgamebase2", "Assembly-CSharp.csproj", "{8B9B8008-582C-AEC7-5239-5825B5DAEDFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
